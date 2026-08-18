@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 <div align="center"> ⚛️ I am majoring in nuclear science and engineering. </div>
 <div align="center"> ⛰️ I like learning languages - I am learning Russian right now and plan to minor in it. </div>
 
-## technologies
+## languages and technologies
 -------------------------------------------------------
 - python <img src="https://i.pinimg.com/736x/99/f0/1f/99f01feb0a5b9ed2646f0e80ebedba9e.jpg" width="5%">
 - jupyter notebook <img src="https://i.pinimg.com/736x/c0/65/41/c06541680f8932e3af22bd66fc9079ef.jpg" width="5%"> 
-- OpenMC <img src="https://i.pinimg.com/736x/aa/3b/32/aa3b326a26e8e527d7829f9bc08d77d9.jpg" width="5%"> 
+- openMC <img src="https://i.pinimg.com/736x/aa/3b/32/aa3b326a26e8e527d7829f9bc08d77d9.jpg" width="5%">
+- LaTex 
 
 ## stats
 ---------------------------------------------------------
