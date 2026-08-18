@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - python <img src="https://i.pinimg.com/736x/99/f0/1f/99f01feb0a5b9ed2646f0e80ebedba9e.jpg" width="5%">
 - jupyter notebook <img src="https://i.pinimg.com/736x/c0/65/41/c06541680f8932e3af22bd66fc9079ef.jpg" width="5%"> 
 - openMC <img src="https://i.pinimg.com/736x/aa/3b/32/aa3b326a26e8e527d7829f9bc08d77d9.jpg" width="5%">
-- LaTex 
+- LaTex <img src="https://i.pinimg.com/736x/7f/8d/da/7f8dda19d47c549b8f2d9f7b52a075af.jpg" width="5%">
 
 ## stats
 ---------------------------------------------------------
